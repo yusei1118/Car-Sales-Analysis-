@@ -1,8 +1,8 @@
 # Car Sales Analysis Dashboard
 
 
-[![Car Sales Analysis Dashboard](<img width="1272" height="826" alt="Screenshot 2026-05-29 at 16 29 15" src="https://github.com/user-attachments/assets/29b79641-7a49-4af8-a053-a200cee4582e" />)](https://public.tableau.com/app/profile/yusei.hosoya/viz/CarSalesAnalysis_17799323801300/MainDashboard?publish=yes)
-
+[![Car Sales Analysis Dashboard]](https://public.tableau.com/app/profile/yusei.hosoya/viz/CarSalesAnalysis_17799323801300/MainDashboard?publish=yes)
+<img width="1272" height="826" alt="Screenshot 2026-05-29 at 16 29 15" src="https://github.com/user-attachments/assets/29b79641-7a49-4af8-a053-a200cee4582e" />
 <img width="2400" height="1600" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/e711459f-4ca0-4c47-9f68-5f8be0f5644e" />
 
 
